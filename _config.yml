@@ -1,0 +1,24 @@
+markdown:         rdiscount
+pygments:         true
+paginate:         4
+
+title:            佳斐猫 AndyBear
+url:              ~
+feed:             /atom.xml
+author:
+    name:         AndyBear
+    email:        zhangchlr1995@gmail.com
+description:      "PIZn's blog theme -- Black Cube Theme 1.0 "
+
+about: 			  "For the dream!"
+follow:
+    github:       https://github.com/chlrAndyBear
+    twitter:      https://twitter.com/chlr1995
+    google:       https://plus.google.com/u/0/104301117248952890500/
+    facebook:     https://www.facebook.com/andybear.zhang
+description:      "PIZn's blog theme -- Black Cube Theme 1.0 "
+
+
+style: 			  /css/style.css
+blogName: 		  AndyBear
+blogDesc: 		  ACM,Life & Photograph.

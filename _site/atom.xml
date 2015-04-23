@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+   <title>佳斐猫 AndyBear</title>
+   <link href="/atom.xml" rel="self" type="application/atom+xml"/>
+   <link href="" rel="alternate" type="text/html" />
+   <updated>2015-04-23T16:11:25+08:00</updated>
+   <id></id>
+   <author>
+     <name>AndyBear</name>
+     <email>zhangchlr1995@gmail.com</email>
+   </author>
+
+   
+   <entry>
+     <title>第一次尝试个人博客</title>
+     <link href="/2015/04/23/first-attemp.html"/>
+     <updated>2015-04-23T00:00:00+08:00</updated>
+     <id>/2015/04/23/first-attemp</id>
+     <content type="html">&lt;h3&gt;小有所成&lt;/h3&gt;
+
+&lt;p&gt;借助PIZN的模板，加上各种google、baidu，终于把jekyll搞清楚了一丢丢。写一篇小博纪念一下喽~&lt;/p&gt;
+
+&lt;h3&gt;小博内容&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;可能会以ACM为主&lt;/li&gt;
+&lt;li&gt;加上各种生活吐槽&lt;/li&gt;
+&lt;li&gt;再有就是各种杂七杂八的东东啦~&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;小问题……&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;可能是因为html5的缘故，贴在博文中的代码有一些关键字，比如带“&amp;lt;”和“&gt;”符号的小码会被吞掉，着实让人头疼的……&lt;/li&gt;
+&lt;li&gt;我知道肯定有办法解决，但是个人比较渣渣，而且比较懒，这个问题的解决就先放着了……不要嘲笑……&lt;/li&gt;
+&lt;li&gt;因为主要写ACM博文为主，所以代码神马的肯定不会少了，至于代码我会想办法的……&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+   </entry>
+   
+ 
+</feed>
